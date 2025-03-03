@@ -1,2 +1,2 @@
 # week10labs
-Repo for week 2 of BGEN 632
+Repo for week 10 of BGEN 632
